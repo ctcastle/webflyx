@@ -1,5 +1,0 @@
-- "May the Force be with you"
-- "I find your loack of faith disturbing"
-- "I am your father" 
-- "Do or do not. there is no try" 
-- "I've got a bad feeling about this" 
